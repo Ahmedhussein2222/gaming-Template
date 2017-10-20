@@ -1,0 +1,180 @@
+
+
+header{
+    background-color: crimson;
+   
+       
+} 
+
+
+a{
+    color: white;
+    text-decoration-line: none;
+    
+}
+
+a:hover{
+    
+        text-decoration-line: none;
+    color: white;
+
+}
+
+.logo  {
+    color: white;
+	float: left;
+    display: inline-block;
+	margin-top: 15px;
+	margin-left: 25px;
+    letter-spacing: 4px;}
+
+
+
+
+
+nav{
+    
+    padding: 20px;
+
+    
+    
+    
+}
+
+
+nav ul{
+     
+    
+    text-align: center;
+  
+    
+}
+
+
+
+nav ul li {
+    
+    display: inline;
+    padding: 10px;
+    font-size:25px;
+    margin-right: 10px;
+    
+    
+    
+    
+    
+}
+
+
+
+nav ul li a{
+    
+    text-decoration: none;
+    color: white;
+    padding:15px;
+    font-size: 18px;
+    text-align: center;
+}
+
+
+ nav ul li a:hover{
+    color:gray;
+         text-decoration: none;
+
+     
+}
+
+
+
+
+
+
+img{
+    
+    width: 100%;
+    
+    
+    
+}
+
+
+
+#k{
+color: black;
+	text-align: center;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	letter-spacing: 4px;
+    
+    
+}
+
+.company{
+	
+	color: crimson;
+	font-weight: bold;
+}
+
+
+.paragraphfont{
+        	font-weight: bold;
+	color: #717070;
+
+
+    
+}
+
+
+
+.frame{
+    
+    
+    
+    background-color: crimson;
+	padding: 15px;
+	color: white;
+	font-size: 20px;
+	text-align: center;
+	margin: 0 auto;
+	
+}
+.y{
+    
+    font-size: 20px;
+    text-align: center;
+    color: white;
+    margin-right: 50px;
+    
+
+}
+
+
+.thumb{
+    
+    background-color: white;
+    margin-bottom: 10px;
+    padding:25px;
+    float: left;
+    width: 250px;
+    margin: 10px;
+	margin: 0 auto;
+    
+}
+
+
+h3:hover{
+   
+
+        color: #0066cc;
+    
+}
+
+
+hr{
+    
+    
+    
+    
+}
